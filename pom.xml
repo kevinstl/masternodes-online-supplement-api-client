@@ -8,7 +8,7 @@
     <parent>
         <artifactId>masternodes-online-supplement-api-parent-pom</artifactId>
         <groupId>com.cryptocurrencyservices.masternodessuplement.api</groupId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>0.0.1</version>
     </parent>
 
     <artifactId>masternodes-online-supplement-api-client</artifactId>
